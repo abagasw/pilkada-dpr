@@ -1,9 +1,10 @@
-streamlit
-pandas
-numpy
+streamlit==1.29.0
+pandas==2.1.4
+numpy==1.26.2
 scikit-learn
 altair
 wordcloud
 matplotlib
 statsmodels
 scipy
+plotly==5.18.0
