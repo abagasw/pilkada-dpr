@@ -1,0 +1,114 @@
+{
+  "lstm_model": {
+    "model_type": "LSTM (Long Short-Term Memory)",
+    "architecture": "2-layer LSTM with dropout",
+    "layers": [
+      {
+        "type": "LSTM",
+        "units": 64,
+        "activation": "relu",
+        "return_sequences": true
+      },
+      {
+        "type": "Dropout",
+        "rate": 0.2
+      },
+      {
+        "type": "LSTM",
+        "units": 32,
+        "activation": "relu"
+      },
+      {
+        "type": "Dropout",
+        "rate": 0.2
+      },
+      {
+        "type": "Dense",
+        "units": 1
+      }
+    ],
+    "parameters": {
+      "total_params": 30369,
+      "trainable_params": 30369,
+      "model_size_kb": 118.63
+    },
+    "training": {
+      "optimizer": "Adam",
+      "loss_function": "MSE",
+      "epochs": 100,
+      "batch_size": 16,
+      "validation_split": 0.2,
+      "early_stopping_patience": 10
+    },
+    "performance": {
+      "rmse": Infinity,
+      "mae": Infinity,
+      "mape": Infinity
+    }
+  },
+  "ensemble_methods": {
+    "voting_ensemble": {
+      "method": "Voting Regressor",
+      "description": "Average predictions from 4 base learners",
+      "base_learners": [
+        "RandomForest",
+        "GradientBoosting",
+        "XGBoost",
+        "LinearRegression"
+      ],
+      "performance": {
+        "rmse": 0.17,
+        "mae": 0.08,
+        "status": "BEST_PERFORMER"
+      }
+    },
+    "stacking_ensemble": {
+      "method": "Stacking Regressor",
+      "description": "Linear Regression as meta-learner",
+      "base_learners": [
+        "RandomForest",
+        "GradientBoosting",
+        "XGBoost",
+        "LinearRegression"
+      ],
+      "meta_learner": "LinearRegression",
+      "performance": {
+        "rmse": 0.19,
+        "mae": 0.07
+      }
+    },
+    "base_learners": {
+      "RandomForest": {
+        "n_estimators": 50,
+        "max_depth": 8
+      },
+      "GradientBoosting": {
+        "n_estimators": 50,
+        "max_depth": 5,
+        "learning_rate": 0.1
+      },
+      "XGBoost": {
+        "n_estimators": 50,
+        "max_depth": 5,
+        "learning_rate": 0.1
+      },
+      "LinearRegression": {
+        "fit_intercept": true
+      }
+    }
+  },
+  "data_info": {
+    "total_samples": 372,
+    "training_samples": 297,
+    "testing_samples": 75,
+    "features_used": 3,
+    "sequence_length": 5,
+    "train_test_split": "80/20"
+  },
+  "recommendations": {
+    "production_model": "Voting Ensemble",
+    "reason": "Lowest RMSE (0.17), most robust predictions",
+    "alternative": "LSTM for temporal pattern recognition",
+    "deployment_strategy": "Hybrid - Use ensemble for primary predictions, LSTM for trend analysis"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tests": [
+    {
+      "test_id": "ab_test_20260111_155322",
+      "version_a": "20260111_155304",
+      "version_b": "20260111_155304",
+      "start_date": "2026-01-11T15:53:22.082725",
+      "end_date": "2026-01-11T15:53:22.099068",
+      "test_size": 0.5,
+      "duration_days": 7,
+      "status": "completed",
+      "results": {
+        "version_a": {
+          "total": 1492,
+          "correct": "819",
+          "accuracy": 0.5489276139410187
+        },
+        "version_b": {
+          "total": 1493,
+          "correct": "795",
+          "accuracy": 0.5324849296718017
+        }
+      },
+      "winner": "version_a"
+    }
+  ],
+  "active_test": "ab_test_20260111_155322"
+}

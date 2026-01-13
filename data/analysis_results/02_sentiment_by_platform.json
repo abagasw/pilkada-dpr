@@ -1,0 +1,29 @@
+{
+  "Negatif": {
+    "facebook": 1230,
+    "instagram": 519,
+    "online": 14,
+    "threads": 132,
+    "tiktok": 11935,
+    "x": 114,
+    "youtube": 9
+  },
+  "Netral": {
+    "facebook": 425,
+    "instagram": 138,
+    "online": 231,
+    "threads": 64,
+    "tiktok": 5547,
+    "x": 40,
+    "youtube": 103
+  },
+  "Positif": {
+    "facebook": 401,
+    "instagram": 264,
+    "online": 3,
+    "threads": 36,
+    "tiktok": 8619,
+    "x": 22,
+    "youtube": 0
+  }
+}

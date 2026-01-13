@@ -1,0 +1,23 @@
+{
+  "pro_policy": {
+    "prabowo": 412,
+    "jokowi": 147,
+    "megawati": 25,
+    "sandiaga": 1
+  },
+  "contra_policy": {
+    "siapa": 462,
+    "puan": 94,
+    "tidak setuju": 90,
+    "anies": 43,
+    "ganjar": 10
+  },
+  "neutral_media": {
+    "media_netral": 28626
+  },
+  "total_mentions": {
+    "pro_policy": 585,
+    "contra_policy": 699,
+    "neutral_media": 28626
+  }
+}

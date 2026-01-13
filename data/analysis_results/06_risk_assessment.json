@@ -1,0 +1,19 @@
+{
+  "overall_risk_score": 7.71,
+  "risk_level": "RENDAH",
+  "risk_factors": {
+    "negative_sentiment": 42.64,
+    "action_keywords": 11.21,
+    "engagement": 8.62
+  },
+  "risk_weights": {
+    "negative_sentiment": 0.4,
+    "action_keywords": 0.35,
+    "engagement": 0.25
+  },
+  "engagement_analysis": {
+    "avg_engagement_with_keywords": 37.28,
+    "avg_engagement_without_keywords": 92.39,
+    "engagement_ratio": 0.4
+  }
+}

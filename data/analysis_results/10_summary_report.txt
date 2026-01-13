@@ -1,0 +1,99 @@
+
+==========================================================================================
+RINGKASAN EKSEKUTIF ANALISIS PILKADA DPRD
+==========================================================================================
+
+PERIODE ANALISIS: 2025-01-01 - 2026-01-10
+TANGGAL LAPORAN: 2026-01-11 07:30:07
+
+==========================================================================================
+1. SENTIMEN PUBLIK
+==========================================================================================
+
+Distribusi Sentimen:
+  • Positif: 9,345 (31.31%)
+  • Negatif: 13,953 (46.75%)
+  • Netral: 6,548 (21.94%)
+
+Sentiment Bias-Corrected (Equal Platform Weight):
+  • Positif: 31.31%
+  • Negatif: 46.75%
+  • Netral: 21.94%
+
+Kesimpulan: Publik menunjukkan sentimen NEGATIF/KONTRA 
+terhadap kebijakan pemilihan gubernur oleh DPRD.
+
+==========================================================================================
+2. POTENSI ESKALASI & AKSI
+==========================================================================================
+
+Posting dengan Kata Kunci Aksi/Protes: 8297 (27.8%)
+
+Top 5 Kategori Aksi:
+  1. ['Revolusi/Reformasi': 74 mentions (0.25%)
+  2. 'Hak Rakyat']: 1146 mentions (3.84%)
+  3. ['Aksi Turun ke Jalan': 1374 mentions (4.60%)
+  4. 'Perlawanan': 242 mentions (0.81%)
+  5. 'Hak Rakyat': 439 mentions (1.47%)
+
+Risk Score: 17.71 / 100 (RENDAH)
+Risk Level: RENDAH
+
+==========================================================================================
+3. FIGUR-FIGUR KUNCI
+==========================================================================================
+
+Top 5 Figur PRO-Kebijakan:
+  1. PRABOWO: 412 mentions (1.38%)
+  2. JOKOWI: 147 mentions (0.49%)
+  3. MEGAWATI: 25 mentions (0.08%)
+  4. SANDIAGA: 1 mentions (0.00%)
+
+Top 5 Figur KONTRA-Kebijakan:
+  1. SIAPA: 462 mentions (1.55%)
+  2. PUAN: 94 mentions (0.31%)
+  3. TIDAK SETUJU: 90 mentions (0.30%)
+  4. ANIES: 43 mentions (0.14%)
+  5. GANJAR: 10 mentions (0.03%)
+
+==========================================================================================
+4. DISTRIBUSI PLATFORM
+==========================================================================================
+  TIKTOK            26101 ( 87.5%)
+  FACEBOOK           2056 (  6.9%)
+  INSTAGRAM           921 (  3.1%)
+  ONLINE              248 (  0.8%)
+  THREADS             232 (  0.8%)
+  X                   176 (  0.6%)
+  YOUTUBE             112 (  0.4%)
+
+==========================================================================================
+5. REKOMENDASI STRATEGIS
+==========================================================================================
+
+JANGKA PENDEK (0-3 BULAN):
+  ✓ Aktifkan crisis communication team 24/7
+  ✓ Rapid response untuk counter misinformation (< 2 jam)
+  ✓ Transparansi penuh dalam komunikasi publik
+  ✓ Dialog dengan tokoh kunci oposisi
+
+JANGKA MENENGAH (3-6 BULAN):
+  ✓ Multi-stakeholder engagement (akademisi, civil society)
+  ✓ Public hearing & town hall di 10+ kota
+  ✓ Media campaign massive di semua platform
+  ✓ Influencer partnership untuk edukasi publik
+
+JANGKA PANJANG (6-12 BULAN):
+  ✓ Showcase concrete results & positive impacts
+  ✓ Continuous sentiment monitoring & adaptation
+  ✓ Strengthen coalition dengan stakeholders pendukung
+  ✓ Long-term narrative building
+
+==========================================================================================
+CATATAN:
+- Data mencakup 29,846 posts dari 7 platform
+- Periode analisis: 2025-01-01 hingga 2026-01-10
+- Analisis menggunakan IndoBERT untuk sentiment classification
+- Bias correction diterapkan untuk mengatasi platform dominance
+
+==========================================================================================

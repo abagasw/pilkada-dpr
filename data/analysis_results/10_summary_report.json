@@ -1,0 +1,16 @@
+{
+  "report_date": "2026-01-13T03:45:48.278758",
+  "analysis_period": {
+    "start": "2025-01-01 02:43:34",
+    "end": "2026-01-10 22:00:00"
+  },
+  "total_posts": 29848,
+  "platforms": 7,
+  "key_findings": {
+    "dominant_sentiment": "Negatif",
+    "risk_level": "RENDAH",
+    "action_keywords_prevalence": 11.21,
+    "most_mentioned_pro_figure": "prabowo",
+    "most_mentioned_contra_figure": "megawati"
+  }
+}

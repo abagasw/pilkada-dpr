@@ -1,0 +1,32 @@
+{
+  "total_posts_analyzed": 29846,
+  "posts_with_keywords": 8297,
+  "percentage_with_keywords": 27.8,
+  "top_keywords": {
+    "[]": 21549,
+    "['Hak Rakyat']": 2503,
+    "['Aksi Turun ke Jalan'": 1374,
+    "'Hak Rakyat']": 1146,
+    "['Perlawanan']": 928,
+    "'Partai/Politik Uang']": 850,
+    "['Aksi Turun ke Jalan']": 807,
+    "['Partai/Politik Uang']": 733,
+    "['Legitimasi/Otoritas']": 613,
+    "['Hak Rakyat'": 545,
+    "['Perlawanan'": 472,
+    "'Hak Rakyat'": 439,
+    "'Legitimasi/Otoritas']": 437,
+    "'Perlawanan'": 242,
+    "['Revolusi/Reformasi']": 173,
+    "'Revolusi/Reformasi'": 142,
+    "'Legitimasi/Otoritas'": 137,
+    "['Revolusi/Reformasi'": 74,
+    "'Perlawanan']": 53,
+    "['Legitimasi/Otoritas'": 52
+  },
+  "keyword_count_stats": {
+    "mean": 0.39,
+    "median": 0.0,
+    "max": 6
+  }
+}

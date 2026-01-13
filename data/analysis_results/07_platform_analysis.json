@@ -1,0 +1,65 @@
+{
+  "facebook": {
+    "total_posts": 2056,
+    "negative_percentage": 59.82,
+    "action_keywords_percentage": 57.83,
+    "avg_engagement": 14.48,
+    "top_mentioned_figure": "prabowo",
+    "risk_level": "High",
+    "dominant_sentiment": "Negatif"
+  },
+  "instagram": {
+    "total_posts": 921,
+    "negative_percentage": 56.35,
+    "action_keywords_percentage": 36.16,
+    "avg_engagement": 63.35,
+    "top_mentioned_figure": "prabowo",
+    "risk_level": "High",
+    "dominant_sentiment": "Negatif"
+  },
+  "tiktok": {
+    "total_posts": 26101,
+    "negative_percentage": 45.73,
+    "action_keywords_percentage": 24.55,
+    "avg_engagement": 94.87,
+    "top_mentioned_figure": "prabowo",
+    "risk_level": "Medium",
+    "dominant_sentiment": "Netral"
+  },
+  "x": {
+    "total_posts": 176,
+    "negative_percentage": 64.77,
+    "action_keywords_percentage": 51.7,
+    "avg_engagement": 3.27,
+    "top_mentioned_figure": "prabowo",
+    "risk_level": "High",
+    "dominant_sentiment": "Negatif"
+  },
+  "youtube": {
+    "total_posts": 112,
+    "negative_percentage": 8.04,
+    "action_keywords_percentage": 42.86,
+    "avg_engagement": 0.0,
+    "top_mentioned_figure": "prabowo",
+    "risk_level": "High",
+    "dominant_sentiment": "Positif"
+  },
+  "threads": {
+    "total_posts": 232,
+    "negative_percentage": 56.9,
+    "action_keywords_percentage": 45.69,
+    "avg_engagement": 35.57,
+    "top_mentioned_figure": "prabowo",
+    "risk_level": "High",
+    "dominant_sentiment": "Negatif"
+  },
+  "online": {
+    "total_posts": 248,
+    "negative_percentage": 5.65,
+    "action_keywords_percentage": 48.79,
+    "avg_engagement": 0.0,
+    "top_mentioned_figure": "prabowo",
+    "risk_level": "High",
+    "dominant_sentiment": "Positif"
+  }
+}

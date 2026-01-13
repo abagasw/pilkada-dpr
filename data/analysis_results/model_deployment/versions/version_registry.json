@@ -1,0 +1,20 @@
+{
+  "versions": [
+    {
+      "version_id": "20260111_155304",
+      "model_path": "data\\analysis_results\\model_deployment\\versions\\final_sentiment_model_v20260111_155304.pkl",
+      "metadata_path": "data\\analysis_results\\model_deployment\\versions\\final_sentiment_model_v20260111_155304_metadata.json",
+      "timestamp": "2026-01-11T15:53:22.077072",
+      "status": "production",
+      "performance": {
+        "cv_f1_score": 0.511420047491648,
+        "cv_std": 0.014843527743567043,
+        "training_samples": 29848,
+        "features": 7
+      },
+      "created_date": "2026-01-11 15:53:22",
+      "description": "GradientBoosting model trained on full sentiment dataset"
+    }
+  ],
+  "active_version": "20260111_155304"
+}

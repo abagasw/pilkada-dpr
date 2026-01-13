@@ -1,0 +1,75 @@
+{
+  "version": "20260111_155304",
+  "timestamp": "2026-01-11T15:53:04.185925",
+  "model_type": "GradientBoostingClassifier",
+  "hyperparameters": {
+    "ccp_alpha": 0.0,
+    "criterion": "friedman_mse",
+    "init": null,
+    "learning_rate": 0.05,
+    "loss": "log_loss",
+    "max_depth": 6,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 4,
+    "min_samples_split": 10,
+    "min_weight_fraction_leaf": 0.0,
+    "n_estimators": 200,
+    "n_iter_no_change": 10,
+    "random_state": 42,
+    "subsample": 0.8,
+    "tol": 0.0001,
+    "validation_fraction": 0.1,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "feature_names": [
+    "engagement",
+    "likes",
+    "shares",
+    "comments_count",
+    "views",
+    "retweets",
+    "sentiment_score"
+  ],
+  "num_features": 7,
+  "classes": [
+    "Negatif",
+    "Netral",
+    "Positif"
+  ],
+  "cv_score_mean": 0.511420047491648,
+  "cv_score_std": 0.014843527743567043,
+  "training_samples": 29848,
+  "top_features": [
+    {
+      "feature": "sentiment_score",
+      "importance": 0.8864013557338235
+    },
+    {
+      "feature": "views",
+      "importance": 0.057525848560172586
+    },
+    {
+      "feature": "engagement",
+      "importance": 0.03584857891558142
+    },
+    {
+      "feature": "likes",
+      "importance": 0.011781454541680867
+    },
+    {
+      "feature": "comments_count",
+      "importance": 0.004708136670599537
+    },
+    {
+      "feature": "shares",
+      "importance": 0.003734625578142075
+    },
+    {
+      "feature": "retweets",
+      "importance": 0.0
+    }
+  ]
+}

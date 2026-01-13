@@ -1,0 +1,21 @@
+{
+  "monitoring_period": "2026-01-11T15:53:12.781345",
+  "model_version": "20260111_155304",
+  "summary": {
+    "total_batches_evaluated": 4,
+    "avg_accuracy": 0.5401758793969849,
+    "avg_f1_score": 0.5241670340230713,
+    "latest_metrics": {
+      "timestamp": "2026-01-11T15:53:12.781345",
+      "batch_name": "monitoring_batch_3",
+      "batch_size": 100,
+      "accuracy": 0.53,
+      "precision": 0.6406865401987354,
+      "recall": 0.53,
+      "f1_score": 0.5149335548172758,
+      "model_version": "20260111_155304"
+    }
+  },
+  "num_predictions_logged": 0,
+  "num_batches_evaluated": 4
+}

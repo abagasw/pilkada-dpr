@@ -1,0 +1,45 @@
+{
+  "predictions": [],
+  "performance_metrics": [
+    {
+      "timestamp": "2026-01-11T15:53:12.766776",
+      "batch_name": "initial_monitoring_batch",
+      "batch_size": 2985,
+      "accuracy": 0.5407035175879397,
+      "precision": 0.6374961141562682,
+      "recall": 0.5407035175879397,
+      "f1_score": 0.5269206873630139,
+      "model_version": "20260111_155304"
+    },
+    {
+      "timestamp": "2026-01-11T15:53:12.773360",
+      "batch_name": "monitoring_batch_1",
+      "batch_size": 100,
+      "accuracy": 0.57,
+      "precision": 0.6776923076923077,
+      "recall": 0.57,
+      "f1_score": 0.5461904761904762,
+      "model_version": "20260111_155304"
+    },
+    {
+      "timestamp": "2026-01-11T15:53:12.778942",
+      "batch_name": "monitoring_batch_2",
+      "batch_size": 100,
+      "accuracy": 0.52,
+      "precision": 0.6446279761904762,
+      "recall": 0.52,
+      "f1_score": 0.508623417721519,
+      "model_version": "20260111_155304"
+    },
+    {
+      "timestamp": "2026-01-11T15:53:12.781345",
+      "batch_name": "monitoring_batch_3",
+      "batch_size": 100,
+      "accuracy": 0.53,
+      "precision": 0.6406865401987354,
+      "recall": 0.53,
+      "f1_score": 0.5149335548172758,
+      "model_version": "20260111_155304"
+    }
+  ]
+}

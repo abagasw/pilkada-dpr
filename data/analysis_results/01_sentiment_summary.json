@@ -1,0 +1,19 @@
+{
+  "analysis_date": "2026-01-13T03:45:48.156675",
+  "total_posts": 29848,
+  "date_range": {
+    "start": "2025-01-01 02:43:34",
+    "end": "2026-01-10 22:00:00"
+  },
+  "platforms": 7,
+  "sentiment_distribution": {
+    "positif": 6435,
+    "negatif": 12726,
+    "netral": 10687
+  },
+  "sentiment_percentage": {
+    "positif": 21.559233449477354,
+    "negatif": 42.63602251407129,
+    "netral": 35.80474403645135
+  }
+}

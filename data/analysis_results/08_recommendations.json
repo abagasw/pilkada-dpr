@@ -1,0 +1,32 @@
+[
+  {
+    "Kategori": "Crisis Comms",
+    "Prioritas": "Urgent",
+    "Deskripsi": "Aktifkan 24/7 crisis communication team"
+  },
+  {
+    "Kategori": "Rapid Response",
+    "Prioritas": "Urgent",
+    "Deskripsi": "Rapid response < 2 jam untuk misinformation"
+  },
+  {
+    "Kategori": "Transparency",
+    "Prioritas": "High",
+    "Deskripsi": "Transparansi penuh dalam komunikasi publik"
+  },
+  {
+    "Kategori": "Engagement",
+    "Prioritas": "High",
+    "Deskripsi": "Engagement dengan stakeholders kunci"
+  },
+  {
+    "Kategori": "Media Campaign",
+    "Prioritas": "Medium",
+    "Deskripsi": "Media campaign di semua platform"
+  },
+  {
+    "Kategori": "Influencer",
+    "Prioritas": "Medium",
+    "Deskripsi": "Influencer partnership untuk edukasi"
+  }
+]
